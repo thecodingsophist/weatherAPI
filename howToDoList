@@ -1,0 +1,18 @@
+TODO's
+
+BEGINNING
+(x) : install node
+(x) : install express
+(x) : make an app.js file
+( ) : follow the docs to get started with express: https://expressjs.com/en/starter/hello-world.html
+
+WEATHER API BIT
+(x) : get the key for the weatherAPI
+(x) : console log the weather
+(x) : npm request module
+(x) : Pull from the Weather API
+    node ships with request called HTTP
+    use NPM module called 'request'
+    use NPM module 'OpenAPI wrapper'
+
+CRUD THE RESOURCE
